@@ -1,0 +1,31 @@
+_repo: The-Castle-Of-The-Shadows_19901
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19901-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Mrs. C. N.
+    - Williamson, Alice Muriel
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+description: ''
+gutenberg_issued: '2006-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: The Castle Of The Shadows
+url: http://www.gutenberg.org/ebooks/19901
